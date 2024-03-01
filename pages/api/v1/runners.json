@@ -1,0 +1,34 @@
+[
+  {
+    "nome": "Lucas Ferreira",
+    "velocidade_media": {
+      "velocidade": 9.99,
+      "unidade_de_medida": "km/h"
+    },
+    "descrição": "Um corredor de alta performace, eleito para levar a tocha olimpica até a pira passando pelos principais pontos da França"
+  },
+  {
+    "nome": "Jean Pierre Polnareff",
+    "velocidade_media": {
+      "velocidade": 9.85,
+      "unidade_de_medida": "km/h"
+    },
+    "descrição": "Um corredor de primeira, eleito para levar a tocha olimpica até a pira passando pelos principais pontos da França"
+  },
+  {
+    "nome": "Isabelly Sofia",
+    "velocidade_media": {
+      "velocidade": 8.4,
+      "unidade_de_medida": "km/h"
+    },
+    "descrição": "Uma corredora de alto rendimento, eleito para levar a tocha olimpica até a pira passando pelos principais pontos da França"
+  },
+  {
+    "nome": "Mariazinha de Silva",
+    "velocidade_media": {
+      "velocidade": 8.15,
+      "unidade_de_medida": "km/h"
+    },
+    "descrição": "Uma corredora de alta resistência, eleito para levar a tocha olimpica até a pira passando pelos principais pontos da França"
+  }
+]
