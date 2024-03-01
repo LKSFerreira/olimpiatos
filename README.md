@@ -28,4 +28,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Autor
 
-    - [Lucas Ferreira](https://www.linkedin.com/in/lucas-ferreira-developer)
+[Lucas Ferreira](https://www.linkedin.com/in/lucas-ferreira-developer)
