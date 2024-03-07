@@ -13,7 +13,7 @@
       "velocidade": 8.4,
       "unidade_de_medida": "km/h"
     },
-    "descrição": "Uma corredora de alto rendimento, eleito para levar a tocha olimpica até a pira passando pelos principais pontos da França"
+    "descrição": "Uma corredora de alto rendimento, eleita para levar a tocha olimpica até a pira passando pelos principais pontos da França"
   },
   {
     "nome": "Jean Pierre Polnareff",
@@ -29,6 +29,6 @@
       "velocidade": 8.15,
       "unidade_de_medida": "km/h"
     },
-    "descrição": "Uma corredora de alta resistência, eleito para levar a tocha olimpica até a pira passando pelos principais pontos da França"
+    "descrição": "Uma corredora de alta resistência, eleita para levar a tocha olimpica até a pira passando pelos principais pontos da França"
   }
 ]
