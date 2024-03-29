@@ -2,7 +2,7 @@
 
 Projeto desafio Atos com referência as Olimpíadas de Paris 2023
 
-## Acesse a página do desafio
+## Acesse a página do desafio: Consumo de água
 
 [OlimpiAtos](https://lksferreira.github.io/olimpiatos/)
 
